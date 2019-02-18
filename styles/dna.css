@@ -1,0 +1,83 @@
+body{
+  background-color:#0F2554;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+a{
+  color: white;
+}
+
+.nav{
+  left: 5%;
+  width: 90%;
+  top: 0;
+  background-color: #860d43;
+  position: fixed;
+  padding: 12px;
+}
+
+.navOption{
+  font-size: 18;
+  text-decoration: none;
+  padding: 6px;
+}
+
+.sider{
+  text-align: left;
+  vertical-align: middle;
+}
+
+.siderRight{
+  text-align: right;
+}
+
+.navOption:hover{
+  text-decoration: underline;
+}
+
+footer{
+  background-color: #2b3d51;
+  padding: 6px;
+}
+.aboutSub{
+ width: 100%;
+ padding: 3%;
+}
+
+.aboutUs{
+ margin-left: 20%;
+ margin-left: 20%;
+ width: 60%;
+}
+.headerImg{
+  width: 90%;
+  padding-top: 3%;
+}
+
+.gifLarge{
+  width: 40%;
+  margin: 5px;
+}
+
+.icon{
+  width:9%;
+}
+
+.profilePic{
+  width: 90%;
+}
+
+.profile{
+  width: 25%;
+  float: left;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
